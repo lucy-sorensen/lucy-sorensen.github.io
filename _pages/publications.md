@@ -14,7 +14,7 @@ author_profile: true
 <br><b>Publications</b>
 <ul>
 <li>Accepted. <a href="https://www.edworkingpapers.com/ai20-216">Getting Tough? The Effects of Discretionary Principal Discipline on Student Outcomes</a>. (with Shawn Bushway and Elizabeth Gifford). Education Finance and Policy.</li>
-<li>Accepted. The Importance of Place: Effects of Community Job Loss on College Enrollment and Attainment Across Rural and Metropolitan Regions. (with Moontae Hwang). AERA Opem.</li>
+<li>Accepted. The Importance of Place: Effects of Community Job Loss on College Enrollment and Attainment Across Rural and Metropolitan Regions. (with Moontae Hwang). AERA Open.</li>
 <li>2020. <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2020.1825779?journalCode=rpxm20">Illusory Success of Performance Management: The Case of Contracts for Excellence in New York School Districts</a>. (with Philip Gigliotti). Public Management Review.</li>
 <li>2020. <a href="https://journals.sagepub.com/doi/full/10.1177/2332858420905812">The Hidden Costs of Teacher Turnover</a>. (with Helen Ladd). AERA Open.</li>
 <li>2020. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12256">Locking Up My Generation: Cohort Differences in Prison Spells Over the Life Course</a>. (with Yinzhi Shen, Shawn Bushway, Herbert Smith). Criminology.</li>
