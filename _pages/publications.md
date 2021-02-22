@@ -7,12 +7,12 @@ author_profile: true
 
 <br><b>Recent Working Papers</b>
 <ul>
-<li>Sorensen, Lucy C. and Stephen B. Holt. <a href="https://www.edworkingpapers.com/ai20-263">Charter School Growth and the Evolution of Local Teacher Labor Markets</a>. Annenberg Institute EdWorkingPaper 20-263.</li>
 <li>Sorensen, Lucy, Yinzhi Shen, and Shawn Bushway. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3577645">Making Schools Safer and/or Escalating Disciplinary Response: A Study of Police Officers in North Carolina Schools</a>. SSRN Working Paper.</li>
 <li>Sorensen, Lucy, Youngsung Kim, and Moontae Hwang. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3717648">Property Tax Caps and the Opportunity Gap Between Low- and High-Wealth Districts</a>. SSRN Working Paper.</li>
 </ul>
 <br><b>Publications</b>
 <ul>
+<li>Accepted. <a href="https://www.edworkingpapers.com/ai20-263">Charter School Growth and the Evolution of Local Teacher Labor Markets</a>. (with Stephen Holt). Economics of Education Review.</li>
 <li>Accepted. <a href="https://www.edworkingpapers.com/ai20-216">Getting Tough? The Effects of Discretionary Principal Discipline on Student Outcomes</a>. (with Shawn Bushway and Elizabeth Gifford). Education Finance and Policy.</li>
 <li>Accepted. The Importance of Place: Effects of Community Job Loss on College Enrollment and Attainment Across Rural and Metropolitan Regions. (with Moontae Hwang). AERA Opem.</li>
 <li>2020. <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2020.1825779?journalCode=rpxm20">Illusory Success of Performance Management: The Case of Contracts for Excellence in New York School Districts</a>. (with Philip Gigliotti). Public Management Review.</li>
