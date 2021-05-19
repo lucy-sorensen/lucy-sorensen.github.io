@@ -13,9 +13,9 @@ author_profile: true
 <br><b>Publications</b>
 <ul>
 <li>Accepted. <a href="https://www.edworkingpapers.com/ai20-216">Getting Tough? The Effects of Discretionary Principal Discipline on Student Outcomes</a>. (with Shawn Bushway and Elizabeth Gifford). Education Finance and Policy.</li>
-<li>Accepted. Empowering the Frontline: Internal and External Organizational Antecedents of Teacher Empowerment. (with Michael Minsung Kang and Soohyun Park). Public Management Review.</li>
 <li>2021. <a href="https://www.edworkingpapers.com/ai20-263">Charter School Growth and the Evolution of Local Teacher Labor Markets</a>. (with Stephen Holt). Economics of Education Review.</li>
 <li>2021. <a href="https://journals.sagepub.com/doi/abs/10.3102/01623737211006409">Making Schools Safer and/or Escalating Disciplinary Response: A Study of Police Officers in North Carolina Schools</a>. Educational Evaluation and Policy Analysis.</li>
+<li>2021. <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2021.1919185">Empowering the Frontline: Internal and External Organizational Antecedents of Teacher Empowerment</a>. (with Michael Minsung Kang and Soohyun Park). Public Management Review.</li>
 <li>2021. <a href="https://journals.sagepub.com/doi/full/10.1177/2332858421997170">The Importance of Place: Effects of Community Job Loss on College Enrollment and Attainment Across Rural and Metropolitan Regions</a>. (with Moontae Hwang). AERA Open.</li>
 <li>2020. <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2020.1825779?journalCode=rpxm20">Illusory Success of Performance Management: The Case of Contracts for Excellence in New York School Districts</a>. (with Philip Gigliotti). Public Management Review.</li>
 <li>2020. <a href="https://journals.sagepub.com/doi/full/10.1177/2332858420905812">The Hidden Costs of Teacher Turnover</a>. (with Helen Ladd). AERA Open.</li>
