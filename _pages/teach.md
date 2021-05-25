@@ -5,7 +5,7 @@ permalink: /teach/
 author_profile: true
 ---
 
-At the Rockefeller College of Public Affairs and Policy, I teach courses on economics, public policy, and quantitative methods. Please see below for course syllabi.
+At the Rockefeller College of Public Affairs and Policy, I teach courses on economics, public policy, education policy, and quantitative methods. Please see below for course syllabi.
 
 <br><b>University at Albany, SUNY</b>
 <br>[Quantitative Methods of Causal Inference (RPAD 725)](https://github.com/lucy-sorensen/lucy-sorensen.github.io/raw/master/files/syllabus_725_2021.pdf). Instructor at PhD level, Public Administration and Policy
