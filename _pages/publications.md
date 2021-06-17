@@ -13,6 +13,7 @@ author_profile: true
 <br><b>Publications</b>
 <ul>
 <li>Accepted. <a href="https://www.edworkingpapers.com/ai20-216">Getting Tough? The Effects of Discretionary Principal Discipline on Student Outcomes</a>. (with Shawn Bushway and Elizabeth Gifford). Education Finance and Policy.</li>
+<li>Accepted. <a href="https://www.edworkingpapers.com/ai20-216">Sociodemographic Characteristics and Inequities Associated with Access to In-Person and Remote Elementary Schooling During the COVID-19 Pandemic in New York State</a>. (with Ashley Fox, Jun Soo Lee, and Erika Martin). JAMA Network Open.</li>
 <li>2021. <a href="https://www.edworkingpapers.com/ai20-263">Charter School Growth and the Evolution of Local Teacher Labor Markets</a>. (with Stephen Holt). Economics of Education Review.</li>
 <li>2021. <a href="https://journals.sagepub.com/doi/abs/10.3102/01623737211006409">Making Schools Safer and/or Escalating Disciplinary Response: A Study of Police Officers in North Carolina Schools</a>. Educational Evaluation and Policy Analysis.</li>
 <li>2021. <a href="https://www.tandfonline.com/doi/abs/10.1080/14719037.2021.1919185">Empowering the Frontline: Internal and External Organizational Antecedents of Teacher Empowerment</a>. (with Michael Minsung Kang and Soohyun Park). Public Management Review.</li>
@@ -29,6 +30,7 @@ author_profile: true
 <li>2016. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4809761/">How Does the Fast Track Intervention Prevent Adverse Outcomes in Young Adulthood?</a> (with Kenneth Dodge and the CPPRG). Child Development.</li>
 </ul>
 <br><b>Policy Pieces</b>
+<br>“<a href="https://www.brookings.edu/blog/brown-center-chalkboard/2021/06/14/do-principals-hold-the-key-to-fixing-school-discipline/">Do principals hold the key to fixing school discipline?</a>” (Brookings Institute)
 <br>“<a href="https://jamanetwork.com/channels/health-forum/fullarticle/2767411">Protecting the health of vulnerable children and adolescents during COVID-19-related K-12 school closures</a>” (JAMA Health Forum)
 <br>“<a href="http://wtgrantfoundation.org/lead-remediation-a-surprising-policy-solution-for-reducing-the-educational-achievement-gap">Lead remediation: A surprising policy solution for reducing the educational achievement gap</a>” (WT Grant Foundation)
 <br>“<a href="https://theconversation.com/school-spankings-are-banned-just-about-everywhere-around-the-world-except-in-us-118236">School spankings are banned just about everywhere around the world except in US</a>” (The Conversation)
