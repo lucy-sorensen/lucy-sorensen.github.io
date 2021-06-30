@@ -7,11 +7,11 @@ author_profile: true
 
 <br><b>Recent Working Papers</b>
 <ul>
-<li>Sorensen, Lucy, Youngsung Kim, and Moontae Hwang. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3717648">The Distributional Effects of Property Tax Constraints on School Districts</a>. SSRN Working Paper.</li>
 <li>Sorensen, Lucy, Montserrat Avila Acosta, John Engberg, and Shawn Bushway. The Thin Blue Line in Schools: New Evidence on School-Based Policing Across the U.S. AEFP Conference Paper.</li>
 </ul>
 <br><b>Publications</b>
 <ul>
+<li>Accepted. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3717648">The Distributional Effects of Property Tax Constraints on School Districts</a>. (with Youngsung Kim and Moontae Hwang) National Tax Journal.</li>
 <li>Accepted. <a href="https://www.edworkingpapers.com/ai20-216">Getting Tough? The Effects of Discretionary Principal Discipline on Student Outcomes</a>. (with Shawn Bushway and Elizabeth Gifford). Education Finance and Policy.</li>
 <li>Accepted. Sociodemographic Characteristics and Inequities Associated with Access to In-Person and Remote Elementary Schooling During the COVID-19 Pandemic in New York State. (with Ashley Fox, Jun Soo Lee, and Erika Martin). JAMA Network Open.</li>
 <li>2021. <a href="https://www.edworkingpapers.com/ai20-263">Charter School Growth and the Evolution of Local Teacher Labor Markets</a>. (with Stephen Holt). Economics of Education Review.</li>
