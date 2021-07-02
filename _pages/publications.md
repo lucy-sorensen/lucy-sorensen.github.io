@@ -5,10 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-<br><b>Recent Working Papers</b>
-<ul>
-<li>Sorensen, Lucy, Montserrat Avila Acosta, John Engberg, and Shawn Bushway. The Thin Blue Line in Schools: New Evidence on School-Based Policing Across the U.S. AEFP Conference Paper.</li>
-</ul>
 <br><b>Publications</b>
 <ul>
 <li>Accepted. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3717648">The Distributional Effects of Property Tax Constraints on School Districts</a>. (with Youngsung Kim and Moontae Hwang). National Tax Journal.</li>
