@@ -83,7 +83,7 @@ author:
   name             : "Lucy Sorensen"
   avatar           : "sorensen_photo.png"
   bio              : "Assistant Professor in the Rockefeller College of Public Affairs and Policy, University at Albany, SUNY"
-  location         : "Albany, NY"
+  location         : #"Albany, NY"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3C0O5tMAAAAJ&hl=en"
