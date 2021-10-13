@@ -5,6 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
+<br><b>Working Papers</b>
+<ul>
+<li><a href="https://www.edworkingpapers.com/ai21-476">The Thin Blue Line in Schools: New Evidence on School-Based Policing Across the U.S.</a>. (with Montserrat Avila Acosta, Shawn Bushway, and John Engberg). EdWorkingPaper 21-476.</li>
+</ul>
+
 <br><b>Publications</b>
 <ul>
 <li>Forthcoming. <a href="https://www.edworkingpapers.com/ai20-216">Getting Tough? The Effects of Discretionary Principal Discipline on Student Outcomes</a>. (with Shawn Bushway and Elizabeth Gifford). Education Finance and Policy.</li>
