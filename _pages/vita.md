@@ -5,4 +5,4 @@ permalink: /vita/
 author_profile: true
 ---
 
-Download CV as pdf [here](https://github.com/lucy-sorensen/lucy-sorensen.github.io/raw/master/files/sorensen-cv-aug2021.pdf).
+Download CV as pdf [here](https://github.com/lucy-sorensen/lucy-sorensen.github.io/raw/master/files/sorensen-cv-dec2021.pdf).

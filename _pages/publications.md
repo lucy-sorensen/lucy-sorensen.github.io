@@ -8,11 +8,12 @@ author_profile: true
 <br><b>Working Papers</b>
 <ul>
 <li><a href="https://www.edworkingpapers.com/ai21-476">The Thin Blue Line in Schools: New Evidence on School-Based Policing Across the U.S.</a>. (with Montserrat Avila Acosta, Shawn Bushway, and John Engberg). EdWorkingPaper 21-476.</li>
+<li><a href="https://www.edworkingpapers.com/ai22-563">Strictly Speaking: ExaminingTeacher Use of Punishment and Student Outcomes</a>. (with Stephen Holt, Katie Vinopal, and Heasun Choi). EdWorkingPaper 22-563.</li>
 </ul>
 
 <br><b>Publications</b>
 <ul>
-<li>Forthcoming. <a href="https://www.edworkingpapers.com/ai20-216">Getting Tough? The Effects of Discretionary Principal Discipline on Student Outcomes</a>. (with Shawn Bushway and Elizabeth Gifford). Education Finance and Policy.</li>
+<li>2022. <a href="https://www.edworkingpapers.com/ai20-216">Getting Tough? The Effects of Discretionary Principal Discipline on Student Outcomes</a>. (with Shawn Bushway and Elizabeth Gifford). Education Finance and Policy.</li>
 <li>2021. <a href="https://www.journals.uchicago.edu/doi/10.1086/716231">The Distributional Effects of Property Tax Constraints on School Districts</a>. (with Youngsung Kim and Moontae Hwang). National Tax Journal.</li>
 <li>2021. <a href="https://www.sciencedirect.com/science/article/pii/S0272775721000182">Sorting it Out: The Effects of Charter School Expansion on Teacher and Student Composition at Traditional Public Schools</a>. (with Stephen Holt). Economics of Education Review.</li>
 <li>2021. <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781960">Sociodemographic Characteristics and Inequities Associated with Access to In-Person and Remote Elementary Schooling During the COVID-19 Pandemic in New York State</a>. (with Ashley Fox, Jun Soo Lee, and Erika Martin). JAMA Network Open.</li>
