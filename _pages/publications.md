@@ -5,16 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-<br><b>Working Papers</b>
-<ul>
-<li><a href="https://www.edworkingpapers.com/ai21-476">The Thin Blue Line in Schools: New Evidence on School-Based Policing Across the U.S.</a>. (with Montserrat Avila Acosta, Shawn Bushway, and John Engberg). Accepted at Journal of Policy Analysis and Management.</li>
-<li><a href="https://www.edworkingpapers.com/ai22-563">Strictly Speaking: ExaminingTeacher Use of Punishment and Student Outcomes</a>. (with Stephen Holt, Katie Vinopal, and Heasun Choi). EdWorkingPaper 22-563.</li>
-</ul>
-
 <br><b>Publications</b>
 <ul>
+<li>Forthcoming. <a href="https://www.edworkingpapers.com/ai21-476">The Thin Blue Line in Schools: New Evidence on School-Based Policing Across the U.S.</a>. (with Montserrat Avila Acosta, Shawn Bushway, and John Engberg). Journal of Policy Analysis and Management.</li>
 <li>2022. <a href="https://direct.mit.edu/edfp/article-abstract/17/2/255/97147/Getting-Tough-The-Effects-of-Discretionary?redirectedFrom=fulltext">Getting Tough? The Effects of Discretionary Principal Discipline on Student Outcomes</a>. (with Shawn Bushway and Elizabeth Gifford). Education Finance and Policy.</li>
-<li>2022. <a href="https://journals.sagepub.com/pb-assets/cmscontent/TCZ/Research%20Notes%20Collection/2022%20Research%20Notes/KoedelResearchNote-1657045508.pdf">Teacher Attrition and the Business Cycle</a>. (with Joshua Eagan, Nayoung Hwang, Cory Koedel, and Helen Ladd). Teachers College Record.</li>
+<li>2022. <a href="https://journals.sagepub.com/pb-assets/cmscontent/TCZ/Research\%20Notes\%20Collection/2022\%20Research\%20Notes/KoedelResearchNote-1657045508.pdf">Teacher Attrition and the Business Cycle</a>. (with Joshua Eagan, Nayoung Hwang, Cory Koedel, and Helen Ladd). Teachers College Record.</li>
 <li>2021. <a href="https://www.journals.uchicago.edu/doi/10.1086/716231">The Distributional Effects of Property Tax Constraints on School Districts</a>. (with Youngsung Kim and Moontae Hwang). National Tax Journal.</li>
 <li>2021. <a href="https://www.sciencedirect.com/science/article/pii/S0272775721000182">Sorting it Out: The Effects of Charter School Expansion on Teacher and Student Composition at Traditional Public Schools</a>. (with Stephen Holt). Economics of Education Review.</li>
 <li>2021. <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781960">Sociodemographic Characteristics and Inequities Associated with Access to In-Person and Remote Elementary Schooling During the COVID-19 Pandemic in New York State</a>. (with Ashley Fox, Jun Soo Lee, and Erika Martin). JAMA Network Open.</li>
@@ -31,6 +26,12 @@ author_profile: true
 <li>2017. <a href="https://journals.sagepub.com/doi/abs/10.3102/0162373717708335">From Parents to Peers: Trajectories in Sources of Academic Influence Grades 4 to 8</a>. (with Philip Cook and Kenneth Dodge). Educational Evaluation and Policy Analysis.</li>
 <li>2017. <a href="https://www.mitpressjournals.org/doi/abs/10.1162/EDFP_a_00194">Returns to Teacher Experience: Student Achievement and Motivation in Middle School</a>. (with Helen Ladd). Education Finance and Policy.</li> 
 <li>2016. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4809761/">How Does the Fast Track Intervention Prevent Adverse Outcomes in Young Adulthood?</a> (with Kenneth Dodge and the CPPRG). Child Development.</li>
+</ul>
+
+<br><b>Working Papers</b>
+<ul>
+<li><a href="https://www.edworkingpapers.com/ai22-563">Strictly Speaking: ExaminingTeacher Use of Punishment and Student Outcomes</a>. (with Stephen Holt, Katie Vinopal, and Heasun Choi). EdWorkingPaper 22-563.</li>
+<li>A Breath of Fresh Air: The Effects of School Building Ventilation Conditions on Student Attendance and Learning. (with Moontae Hwang and Marzuka Ahmad Radia).</li>
 </ul>
 
 <br><b>Policy Pieces</b>
