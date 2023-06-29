@@ -9,6 +9,6 @@ redirect_from:
 
 Official faculty website: [https://www.albany.edu/rockefeller/faculty/lucy-sorensen](https://www.albany.edu/rockefeller/faculty/lucy-sorensen)
 
-Email: \href{mailto:lsorensen@albany.edu}{\tt lsorensen@albany.edu}
+Email: [mailto:lsorensen@albany.edu](lsorensen@albany.edu)
 
-Office hours signup: \href{https://lucysorensen.youcanbook.me/}{\tt https://lucysorensen.youcanbook.me/}
+Office hours signup: [https://lucysorensen.youcanbook.me/](https://lucysorensen.youcanbook.me/)
