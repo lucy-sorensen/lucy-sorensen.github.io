@@ -14,5 +14,3 @@ I am an Associate Professor of Public Administration and Policy at University at
 My research uses applied econometrics to investigate questions related to education policy, human development, and social inequality. I am particularly interested in the ways in which public school systems interact with other systems (such as criminal justice and housing) to shape long-term individual trajectories.
 
 I teach an undergraduate course on schools and social inequality, MPA courses in public economics, and a PhD course in causal inference methods.
-
-Official faculty website: [https://www.albany.edu/rockefeller/faculty/lucy-sorensen](https://www.albany.edu/rockefeller/faculty/lucy-sorensen)
