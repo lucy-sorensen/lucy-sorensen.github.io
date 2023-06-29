@@ -1,10 +1,8 @@
 ---
+layout: archive
+title: "Contact"
 permalink: /contact/
-excerpt: "Contact"
 author_profile: true
-redirect_from: 
-  - /contact/
-  - /contact.html
 ---
 
 Official faculty website: [https://www.albany.edu/rockefeller/faculty/lucy-sorensen](https://www.albany.edu/rockefeller/faculty/lucy-sorensen)
