@@ -2,14 +2,16 @@
 main:
 
   - title: "Research"
-    url: /research/ 
+    url: /research/
 
   - title: "Teaching"
-    url: /teach/    
-    
+    url: /teach/
+
   - title: "CV"
     url: /vita/
 
   - title: "Data"
     url: /data/
 
+  - title: "Contact"
+    url: /contact/
