@@ -30,7 +30,7 @@ author_profile: true
 
 <br><b>Working Papers</b>
 <ul>
-<li><a href="https://edworkingpapers.com/ai24-907">On the Margin: Who Receives a Juvenile Referral in School and What Effect Does It Have?"</a>. (with Andrea Headley and Stephen Holt). EdWorkingPaper 24-907.
+<li><a href="https://edworkingpapers.com/ai24-907">On the Margin: Who Receives a Juvenile Referral in School and What Effect Does It Have?"</a>. (with Andrea Headley and Stephen Holt). EdWorkingPaper 24-907.</li>
 <li><a href="https://www.edworkingpapers.com/ai22-563">Strictly Speaking: ExaminingTeacher Use of Punishment and Student Outcomes</a>. (with Stephen Holt, Katie Vinopal, and Heasun Choi). EdWorkingPaper 22-563.</li>
 <li>A Breath of Fresh Air: The Effects of School Building Ventilation Conditions on Student Attendance and Learning. (with Moontae Hwang and Marzuka Ahmad Radia).</li>
 </ul>
