@@ -7,7 +7,7 @@ author_profile: true
 
 <br><b>Publications</b>
 <ul>
-<li>Forthcoming. <a href="https://www.edworkingpapers.com/ai21-476">The Thin Blue Line in Schools: New Evidence on School-Based Policing Across the U.S.</a>. (with Montserrat Avila Acosta, Shawn Bushway, and John Engberg). Journal of Policy Analysis and Management.</li>
+<li>2023. <a href="https://www.edworkingpapers.com/ai21-476">The Thin Blue Line in Schools: New Evidence on School-Based Policing Across the U.S.</a>. (with Montserrat Avila Acosta, Shawn Bushway, and John Engberg). Journal of Policy Analysis and Management.</li>
 <li>2022. <a href="https://direct.mit.edu/edfp/article-abstract/17/2/255/97147/Getting-Tough-The-Effects-of-Discretionary?redirectedFrom=fulltext">Getting Tough? The Effects of Discretionary Principal Discipline on Student Outcomes</a>. (with Shawn Bushway and Elizabeth Gifford). Education Finance and Policy.</li>
 <li>2022. <a href="https://journals.sagepub.com/pb-assets/cmscontent/TCZ/Research\%20Notes\%20Collection/2022\%20Research\%20Notes/KoedelResearchNote-1657045508.pdf">Teacher Attrition and the Business Cycle</a>. (with Joshua Eagan, Nayoung Hwang, Cory Koedel, and Helen Ladd). Teachers College Record.</li>
 <li>2021. <a href="https://www.journals.uchicago.edu/doi/10.1086/716231">The Distributional Effects of Property Tax Constraints on School Districts</a>. (with Youngsung Kim and Moontae Hwang). National Tax Journal.</li>
@@ -30,11 +30,14 @@ author_profile: true
 
 <br><b>Working Papers</b>
 <ul>
+<li><a href="https://edworkingpapers.com/ai24-907">On the Margin: Who Receives a Juvenile Referral in School and What Effect Does It Have?"</a>. (with Andrea Headley and Stephen Holt). EdWorkingPaper 24-907.
 <li><a href="https://www.edworkingpapers.com/ai22-563">Strictly Speaking: ExaminingTeacher Use of Punishment and Student Outcomes</a>. (with Stephen Holt, Katie Vinopal, and Heasun Choi). EdWorkingPaper 22-563.</li>
 <li>A Breath of Fresh Air: The Effects of School Building Ventilation Conditions on Student Attendance and Learning. (with Moontae Hwang and Marzuka Ahmad Radia).</li>
 </ul>
 
 <br><b>Policy Pieces</b>
+<br>“<a href="https://www.brookings.edu/articles/navigating-the-tradeoffs-of-police-in-schools/">Navigating the tradeoffs of police in schools</a>” (Brookings Institute)
+<br>“<a href="https://www.urban.org/research/publication/contextualizing-push-more-school-resource-officer-funding/">Contextualizing the Push for More School Resource Officer Funding</a>” (Urban Institute Learning Curve)
 <br>“<a href="https://www.brookings.edu/blog/brown-center-chalkboard/2021/06/14/do-principals-hold-the-key-to-fixing-school-discipline/">Do principals hold the key to fixing school discipline?</a>” (Brookings Institute)
 <br>“<a href="https://jamanetwork.com/channels/health-forum/fullarticle/2767411">Protecting the health of vulnerable children and adolescents during COVID-19-related K-12 school closures</a>” (JAMA Health Forum)
 <br>“<a href="http://wtgrantfoundation.org/lead-remediation-a-surprising-policy-solution-for-reducing-the-educational-achievement-gap">Lead remediation: A surprising policy solution for reducing the educational achievement gap</a>” (WT Grant Foundation)
