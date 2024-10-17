@@ -13,7 +13,7 @@ Please check out the work of these excellent PhD students researching education 
 		<th></th>
 	</tr>
 	<tr>
-		<td><img src="/images/Sodiq_Ph.JPG"  width="200" height="200">
+		<td><img src="/images/Sodiq_Ph.JPG"  width="300" height="300">
 		</td>
 		<td>Sodiq Ambali, PhD Student
 		<ul>
@@ -23,7 +23,7 @@ Please check out the work of these excellent PhD students researching education 
 		</ul></td>
 	</tr>
 	<tr>
-		<td><img src="/images/avila_acosta.png"  width="200" height="200">
+		<td><img src="/images/avila_acosta.png"  width="300" height="300">
 		</td>
 		<td>
 		Montserrat Avila-Acosta, PhD Candidate and Senior Research Scientist, Burton Blatt Institute, Syracuse University<ul>
@@ -33,7 +33,7 @@ Please check out the work of these excellent PhD students researching education 
 		</ul></td>
 	</tr>
 	<tr>
-		<td><img src="/images/moontae_hwang.png"  width="200" height="200">
+		<td><img src="/images/moontae_hwang.png"  width="300" height="300">
 		</td>
 		<td>Moontae Hwang, PhD Candidate *On the Job Market*
 		<ul>
@@ -43,7 +43,7 @@ Please check out the work of these excellent PhD students researching education 
 		</ul></td>
 	</tr>
 	<tr>
-		<td><img src="/images/miyeunjung_photo_2.JPG"  width="200" height="200">
+		<td><img src="/images/miyeunjung_photo_2.JPG"  width="300" height="300">
 		</td>
 		<td>Miyeun Jung, PhD Candidate<ul>
 			<li>Interests: K-12 education policy, child and adolescent health, causal inference analysis, quantitative and qualitative policy evaluation</li>
@@ -56,7 +56,7 @@ Please check out the work of these excellent PhD students researching education 
 		<th></th>
 	</tr>
 	<tr>
-		<td><img src="/images/arzana_myderrizi.jpg"  width="200" height="200">
+		<td><img src="/images/arzana_myderrizi.jpg"  width="300" height="300">
 		</td>
 		<td>Arzana Myderrizi, Postdoctoral Fellow, Data Sciences Institute, University of Toronto<ul>
 			<li>Interests: Educational access and outcomes for students with disabilities, K12 education policy and equity, quantitative methods with administrative and survey data</li>
