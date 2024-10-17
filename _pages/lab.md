@@ -5,7 +5,7 @@ permalink: /lab/
 author_profile: true
 ---
 
-Check out the work of these excellent PhD students in our lab:
+Check out the work of these excellent PhD students in our education policy research lab:
 
 <table>
 	<tr> 
