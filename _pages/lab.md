@@ -13,7 +13,7 @@ Check out the work of these excellent PhD students in our education policy resea
 		<th></th>
 	</tr>
 	<tr>
-		<td><img src="/images/Sodiq_Ph.JPG"  width="300" height="300">
+		<td><img src="/images/Sodiq_Photo.JPG"  width="300" height="300">
 		</td>
 		<td>Sodiq Ambali, PhD Student
 		<ul>
@@ -56,7 +56,7 @@ Check out the work of these excellent PhD students in our education policy resea
 		<th></th>
 	</tr>
 	<tr>
-		<td><img src="/images/arzana_myderrizi.jpg"  width="300" height="300">
+		<td><img src="/images/arzana_myderrizi_2.jpg"  width="300" height="300">
 		</td>
 		<td>Arzana Myderrizi, Postdoctoral Fellow, Data Sciences Institute, University of Toronto<ul>
 			<li>Interests: Educational access and outcomes for students with disabilities, K12 education policy and equity, quantitative methods with administrative and survey data</li>
