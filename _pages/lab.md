@@ -16,7 +16,7 @@ Please check out the work of these excellent PhD students researching education 
 		<td>Sodiq Ambali, PhD student
 		<ul>
 			<li>Interests: Education policy, social inequality, and international development</li>
-			<li>Website: [https://sambali3.wixsite.com/sodiq-ambali](https://sambali3.wixsite.com/sodiq-ambali)</li>
+			<li>Website: <a href="https://sambali3.wixsite.com/sodiq-ambali">https://sambali3.wixsite.com/sodiq-ambali</a></li>
 		</ul></td>
 	</tr>
 	<tr>
@@ -25,7 +25,7 @@ Please check out the work of these excellent PhD students researching education 
 		<td>
 		Montserrat Avila-Acosta, PhD candidate<ul>
 			<li>Interests:</li>
-			<li>Website: [https://www.linkedin.com/in/montserrat-avila-acosta/](https://www.linkedin.com/in/montserrat-avila-acosta/)</li>
+			<li>Website: <a href="https://www.linkedin.com/in/montserrat-avila-acosta/">https://www.linkedin.com/in/montserrat-avila-acosta/</a></li>
 		</ul></td>
 	</tr>
 	<tr>
@@ -34,7 +34,7 @@ Please check out the work of these excellent PhD students researching education 
 		<td>Moontae Hwang, PhD candidate on the job market
 		<ul>
 			<li>Interests: Public sector finance, public pensions, federal and state grants, property taxation, education inequality, quantitative methods</li>
-			<li>Website: [https://sites.google.com/view/moontaehwang/about](https://sites.google.com/view/moontaehwang/about)</li>
+			<li>Website: <a href="https://sites.google.com/view/moontaehwang/about">https://sites.google.com/view/moontaehwang/about</a></li>
 		</ul></td>
 	</tr>
 	<tr>
@@ -42,7 +42,7 @@ Please check out the work of these excellent PhD students researching education 
 		</td>
 		<td>Miyeun Jung, PhD candidate<ul>
 			<li>Interests: K-12 education policy, child and adolescent health, causal inference analysis, quantitative and qualitative policy evaluation</li>
-			<li>Website: [https://sites.google.com/view/miyeunjung/about](https://sites.google.com/view/miyeunjung/about)</li>
+			<li>Website: <a href="https://sites.google.com/view/miyeunjung/about">https://sites.google.com/view/miyeunjung/about</a></li>
 		</ul></td>
 	</tr>	
 </table>	
@@ -56,7 +56,7 @@ Please check out the work of these excellent PhD students researching education 
 		</td>
 		<td>Arzana Myderrizi, Postdoctoral Fellow, Data Sciences Institute, University of Toronto<ul>
 			<li>Interests: Educational access and outcomes for students with disabilities, K12 education policy and equity</li>
-			<li>Website: [https://www.linkedin.com/in/arzana-myderrizi-5b64b832/?originalSubdomain=ca](https://www.linkedin.com/in/arzana-myderrizi-5b64b832/?originalSubdomain=ca)</li>
+			<li>Website: <a href="https://www.linkedin.com/in/arzana-myderrizi-5b64b832/">https://www.linkedin.com/in/arzana-myderrizi-5b64b832/</a></li>
 		</ul></td>
 	</tr>
 </table>
