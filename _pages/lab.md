@@ -25,7 +25,7 @@ Please check out the work of these excellent PhD students researching education 
 		<td>
 		Montserrat Avila-Acosta, PhD candidate<ul>
 			<li>Interests:</li>
-			<li>Website:</li>
+			<li>Website: [https://www.linkedin.com/in/montserrat-avila-acosta/](https://www.linkedin.com/in/montserrat-avila-acosta/)</li>
 		</ul></td>
 	</tr>
 	<tr>
@@ -33,7 +33,7 @@ Please check out the work of these excellent PhD students researching education 
 		</td>
 		<td>Moontae Hwang, PhD candidate on the job market
 		<ul>
-			<li>Interests: public sector finance, public pensions, federal and state grants, property taxation, education inequality, quantitative methods</li>
+			<li>Interests: Public sector finance, public pensions, federal and state grants, property taxation, education inequality, quantitative methods</li>
 			<li>Website: [https://sites.google.com/view/moontaehwang/about](https://sites.google.com/view/moontaehwang/about)</li>
 		</ul></td>
 	</tr>
@@ -54,9 +54,9 @@ Please check out the work of these excellent PhD students researching education 
 	<tr>
 		<td><img src="/images/arzana_myderrizi.jpg"  width="200">
 		</td>
-		<td>Arzana Myderrizi, Postdoctoral Associate<ul>
-			<li>Interests:</li>
-			<li>Website:</li>
+		<td>Arzana Myderrizi, Postdoctoral Fellow, Data Sciences Institute, University of Toronto<ul>
+			<li>Interests: Educational access and outcomes for students with disabilities, K12 education policy and equity</li>
+			<li>Website: [https://www.linkedin.com/in/arzana-myderrizi-5b64b832/?originalSubdomain=ca](https://www.linkedin.com/in/arzana-myderrizi-5b64b832/?originalSubdomain=ca)</li>
 		</ul></td>
 	</tr>
 </table>
