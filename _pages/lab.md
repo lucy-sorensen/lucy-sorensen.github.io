@@ -11,7 +11,7 @@ Please check out the work of these excellent PhD students researching education 
 
 <table>
 	<tr>
-		<td><img src="/images/Sodiq_Ph.JPG">
+		<td><img src="/images/Sodiq_Ph.JPG"  width="200">
 		</td>
 		<td>Sodiq Ambali, PhD student
 		<ul>
@@ -20,7 +20,7 @@ Please check out the work of these excellent PhD students researching education 
 		</ul></td>
 	</tr>
 	<tr>
-		<td><img src="/images/avilaacosta-m.jpg">
+		<td><img src="/images/avilaacosta-m.jpg"  width="200">
 		</td>
 		<td>
 		Montserrat Avila-Acosta, PhD candidate<ul>
@@ -29,7 +29,7 @@ Please check out the work of these excellent PhD students researching education 
 		</ul></td>
 	</tr>
 	<tr>
-		<td><img src="/images/moontae_hwang.png">
+		<td><img src="/images/moontae_hwang.png"  width="200">
 		</td>
 		<td>Moontae Hwang, PhD candidate on the job market
 		<ul>
@@ -38,7 +38,7 @@ Please check out the work of these excellent PhD students researching education 
 		</ul></td>
 	</tr>
 	<tr>
-		<td><img src="/images/miyeunjung_photo.JPG">
+		<td><img src="/images/miyeunjung_photo.JPG"  width="200">
 		</td>
 		<td>Miyeun Jung, PhD candidate<ul>
 			<li>Interests: K-12 education policy, child and adolescent health, causal inference analysis, quantitative and qualitative policy evaluation</li>
@@ -52,7 +52,7 @@ Please check out the work of these excellent PhD students researching education 
 
 <table>
 	<tr>
-		<td><img src="/images/arzana_myderrizi.jpg">
+		<td><img src="/images/arzana_myderrizi.jpg"  width="200">
 		</td>
 		<td>Arzana Myderrizi, Postdoctoral Associate<ul>
 			<li>Interests:</li>
