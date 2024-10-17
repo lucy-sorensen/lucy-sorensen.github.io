@@ -15,8 +15,8 @@ Please check out the work of these excellent PhD students researching education 
 		</td>
 		<td>Sodiq Ambali, PhD student
 		<ul>
-			<li>Interests: education policy, social inequality, and international development</li>
-			<li>Website: https://sambali3.wixsite.com/sodiq-ambali</li>
+			<li>Interests: Education policy, social inequality, and international development</li>
+			<li>Website: [https://sambali3.wixsite.com/sodiq-ambali](https://sambali3.wixsite.com/sodiq-ambali)</li>
 		</ul></td>
 	</tr>
 	<tr>
@@ -34,7 +34,7 @@ Please check out the work of these excellent PhD students researching education 
 		<td>Moontae Hwang, PhD candidate on the job market
 		<ul>
 			<li>Interests: public sector finance, public pensions, federal and state grants, property taxation, education inequality, quantitative methods</li>
-			<li>Website: https://sites.google.com/view/moontaehwang/about</li>
+			<li>Website: [https://sites.google.com/view/moontaehwang/about](https://sites.google.com/view/moontaehwang/about)</li>
 		</ul></td>
 	</tr>
 	<tr>
@@ -42,7 +42,7 @@ Please check out the work of these excellent PhD students researching education 
 		</td>
 		<td>Miyeun Jung, PhD candidate<ul>
 			<li>Interests: K-12 education policy, child and adolescent health, causal inference analysis, quantitative and qualitative policy evaluation</li>
-			<li>Website: https://sites.google.com/view/miyeunjung/about</li>
+			<li>Website: [https://sites.google.com/view/miyeunjung/about](https://sites.google.com/view/miyeunjung/about)</li>
 		</ul></td>
 	</tr>	
 </table>	
