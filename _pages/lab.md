@@ -9,7 +9,8 @@ Please check out the work of these excellent PhD students researching education 
 
 <table>
 	<tr> 
-	<th> Current students></th>
+		<th> Current students</th>
+		<th></th>
 	</tr>
 	<tr>
 		<td><img src="/images/Sodiq_Ph.JPG"  width="200" height="200">
@@ -47,7 +48,8 @@ Please check out the work of these excellent PhD students researching education 
 		</ul></td>
 	</tr>	
 	<tr> 
-	<th> Former students></th>
+		<th> Former students</th>
+		<th></th>
 	</tr>
 	<tr>
 		<td><img src="/images/arzana_myderrizi.jpg"  width="200" height="200">
