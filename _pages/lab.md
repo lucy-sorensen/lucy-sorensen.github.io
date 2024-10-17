@@ -7,8 +7,6 @@ author_profile: true
 
 Please check out the work of these excellent PhD students researching education policy topics:
 
-<b>Current Students</b>
-
 <table>
 	<tr>
 		<td><img src="/images/Sodiq_Ph.JPG"  width="200">
@@ -20,11 +18,11 @@ Please check out the work of these excellent PhD students researching education 
 		</ul></td>
 	</tr>
 	<tr>
-		<td><img src="/images/avilaacosta-m.jpg"  width="200">
+		<td><img src="/images/avila_acosta.png"  width="200">
 		</td>
 		<td>
 		Montserrat Avila-Acosta, PhD candidate<ul>
-			<li>Interests:</li>
+			<li>Interests: Links between schooling and crime, poverty alleviation machine learning methods, program evaluation, </li>
 			<li>Website: <a href="https://www.linkedin.com/in/montserrat-avila-acosta/">https://www.linkedin.com/in/montserrat-avila-acosta/</a></li>
 		</ul></td>
 	</tr>
@@ -45,18 +43,19 @@ Please check out the work of these excellent PhD students researching education 
 			<li>Website: <a href="https://sites.google.com/view/miyeunjung/about">https://sites.google.com/view/miyeunjung/about</a></li>
 		</ul></td>
 	</tr>	
+	<tr>
+		<td><img src="/images/arzana_myderrizi.jpg"  width="200">
+		</td>
+		<td>Arzana Myderrizi, Postdoctoral Fellow, Data Sciences Institute, University of Toronto (former PhD student)<ul>
+			<li>Interests: Educational access and outcomes for students with disabilities, K12 education policy and equity, quantitative methods with administrative and survey data</li>
+			<li>Website: <a href="https://www.linkedin.com/in/arzana-myderrizi-5b64b832/">https://www.linkedin.com/in/arzana-myderrizi-5b64b832/</a></li>
+		</ul></td>
+	</tr>
 </table>	
 
 
 <b>Former Students</b>
 
 <table>
-	<tr>
-		<td><img src="/images/arzana_myderrizi.jpg"  width="200">
-		</td>
-		<td>Arzana Myderrizi, Postdoctoral Fellow, Data Sciences Institute, University of Toronto<ul>
-			<li>Interests: Educational access and outcomes for students with disabilities, K12 education policy and equity</li>
-			<li>Website: <a href="https://www.linkedin.com/in/arzana-myderrizi-5b64b832/">https://www.linkedin.com/in/arzana-myderrizi-5b64b832/</a></li>
-		</ul></td>
-	</tr>
+
 </table>
