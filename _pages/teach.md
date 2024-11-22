@@ -10,8 +10,8 @@ At the Rockefeller College of Public Affairs and Policy, I teach courses on econ
 <br><b>University at Albany, SUNY</b>
 <br>[Quantitative Methods of Causal Inference (RPAD 725)](https://github.com/lucy-sorensen/lucy-sorensen.github.io/raw/master/files/syllabus_725_fall2024.pdf). Instructor at PhD level, Public Administration and Policy
 <br>[Principles in Public Economics (RPAD 503)](https://github.com/lucy-sorensen/lucy-sorensen.github.io/raw/master/files/syllabus_503_f2024.pdf). Instructor at MPA level, Public Administration and Policy
-<br>[Economics of Government Programs (RPAD 643)](https://github.com/lucy-sorensen/lucy-sorensen.github.io/raw/master/files/syllabus_educ_f2022.pdf). Instructor at MPA level, Public Administration and Policy
-<br>[Schools and Social Inequality (RPAD 399)](https://github.com/lucy-sorensen/lucy-sorensen.github.io/raw/master/files/. Instructor at undergraduate level, Public Administration and Policy.
+<br>[Economics of Government Programs (RPAD 643)](https://github.com/lucy-sorensen/lucy-sorensen.github.io/raw/master/files/syllabus_643_fall2023.pdf). Instructor at MPA level, Public Administration and Policy
+<br>[Schools and Social Inequality (RPAD 399)](https://github.com/lucy-sorensen/lucy-sorensen.github.io/raw/master/files/syllabus_educ_f2022.pdf). Instructor at undergraduate level, Public Administration and Policy.
 <br>Economic and Financial Theory (RPAD 703). Instructor at PhD level, Public Administration and Policy.
 
 <br><b>Duke University</b>

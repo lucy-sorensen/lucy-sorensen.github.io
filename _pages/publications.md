@@ -7,8 +7,8 @@ author_profile: true
 
 <br><b>Working Papers</b>
 <ul>
-<li><a href="https://edworkingpapers.com/ai24-1093">The Effects of School Building HVAC System Conditions on Student Academic and Behavioral Outcomes. (with Moontae Hwang and Marzuka Ahmad Radia).</li>
-<li><a href="https://edworkingpapers.com/ai24-907">On the Margin: Who Receives a Juvenile Referral in School and What Effect Does It Have?"</a>. (with Andrea Headley and Stephen Holt). EdWorkingPaper 24-907.</li>
+<li><a href="https://edworkingpapers.com/ai24-1093">The Effects of School Building HVAC System Conditions on Student Academic and Behavioral Outcomes</a>. (with Moontae Hwang and Marzuka Ahmad Radia).</li>
+<li><a href="https://edworkingpapers.com/ai24-907">On the Margin: Who Receives a Juvenile Referral in School and What Effect Does It Have?</a>. (with Andrea Headley and Stephen Holt). EdWorkingPaper 24-907.</li>
 <li><a href="https://www.edworkingpapers.com/ai22-563">Strictly Speaking: Examining Teacher Use of Punishment and Student Outcomes</a>. (with Stephen Holt, Katie Vinopal, and Heasun Choi). EdWorkingPaper 22-563.</li>
 </ul>
 
@@ -37,7 +37,7 @@ author_profile: true
 </ul>
 
 <br><b>Policy Pieces</b>
-<br>“<a href=https://www.brookings.edu/articles/why-school-referrals-to-the-juvenile-justice-system-are-often-unfair-and-harmful/">Why school referrals to the juvenile justice system are often unfair and harmful.</a>” (Brookings Institute)
+<br>“<a href="https://www.brookings.edu/articles/why-school-referrals-to-the-juvenile-justice-system-are-often-unfair-and-harmful/">Why school referrals to the juvenile justice system are often unfair and harmful.</a>” (Brookings Institute)
 <br>“<a href="https://www.brookings.edu/articles/navigating-the-tradeoffs-of-police-in-schools/">Navigating the tradeoffs of police in schools</a>” (Brookings Institute)
 <br>“<a href="https://www.urban.org/research/publication/contextualizing-push-more-school-resource-officer-funding/">Contextualizing the Push for More School Resource Officer Funding</a>” (Urban Institute Learning Curve)
 <br>“<a href="https://www.brookings.edu/blog/brown-center-chalkboard/2021/06/14/do-principals-hold-the-key-to-fixing-school-discipline/">Do principals hold the key to fixing school discipline?</a>” (Brookings Institute)
