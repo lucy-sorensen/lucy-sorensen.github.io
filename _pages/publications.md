@@ -5,8 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
+<br><b>Working Papers</b>
+<ul>
+<li><a href="https://edworkingpapers.com/ai24-1093">The Effects of School Building HVAC System Conditions on Student Academic and Behavioral Outcomes. (with Moontae Hwang and Marzuka Ahmad Radia).</li>
+<li><a href="https://edworkingpapers.com/ai24-907">On the Margin: Who Receives a Juvenile Referral in School and What Effect Does It Have?"</a>. (with Andrea Headley and Stephen Holt). EdWorkingPaper 24-907.</li>
+<li><a href="https://www.edworkingpapers.com/ai22-563">Strictly Speaking: ExaminingTeacher Use of Punishment and Student Outcomes</a>. (with Stephen Holt, Katie Vinopal, and Heasun Choi). EdWorkingPaper 22-563.</li>
+</ul>
+
 <br><b>Publications</b>
 <ul>
+<li>2022. <a href="https://www.tandfonline.com/doi/abs/10.1080/03003930.2024.2379584">Truth and Illusion: Can a Transparency Reform Contribute to Accountable Taxing Behavior?</a>. (with Youngsung Kim). Local Government Studies.</li>
 <li>2023. <a href="https://www.edworkingpapers.com/ai21-476">The Thin Blue Line in Schools: New Evidence on School-Based Policing Across the U.S.</a>. (with Montserrat Avila Acosta, Shawn Bushway, and John Engberg). Journal of Policy Analysis and Management.</li>
 <li>2022. <a href="https://direct.mit.edu/edfp/article-abstract/17/2/255/97147/Getting-Tough-The-Effects-of-Discretionary?redirectedFrom=fulltext">Getting Tough? The Effects of Discretionary Principal Discipline on Student Outcomes</a>. (with Shawn Bushway and Elizabeth Gifford). Education Finance and Policy.</li>
 <li>2022. <a href="https://journals.sagepub.com/pb-assets/cmscontent/TCZ/Research\%20Notes\%20Collection/2022\%20Research\%20Notes/KoedelResearchNote-1657045508.pdf">Teacher Attrition and the Business Cycle</a>. (with Joshua Eagan, Nayoung Hwang, Cory Koedel, and Helen Ladd). Teachers College Record.</li>
@@ -28,14 +36,8 @@ author_profile: true
 <li>2016. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4809761/">How Does the Fast Track Intervention Prevent Adverse Outcomes in Young Adulthood?</a> (with Kenneth Dodge and the CPPRG). Child Development.</li>
 </ul>
 
-<br><b>Working Papers</b>
-<ul>
-<li><a href="https://edworkingpapers.com/ai24-907">On the Margin: Who Receives a Juvenile Referral in School and What Effect Does It Have?"</a>. (with Andrea Headley and Stephen Holt). EdWorkingPaper 24-907.</li>
-<li><a href="https://www.edworkingpapers.com/ai22-563">Strictly Speaking: ExaminingTeacher Use of Punishment and Student Outcomes</a>. (with Stephen Holt, Katie Vinopal, and Heasun Choi). EdWorkingPaper 22-563.</li>
-<li>A Breath of Fresh Air: The Effects of School Building Ventilation Conditions on Student Attendance and Learning. (with Moontae Hwang and Marzuka Ahmad Radia).</li>
-</ul>
-
 <br><b>Policy Pieces</b>
+<br>“<a href=https://www.brookings.edu/articles/why-school-referrals-to-the-juvenile-justice-system-are-often-unfair-and-harmful/">Why school referrals to the juvenile justice system are often unfair and harmful.</a>” (Brookings Institute)
 <br>“<a href="https://www.brookings.edu/articles/navigating-the-tradeoffs-of-police-in-schools/">Navigating the tradeoffs of police in schools</a>” (Brookings Institute)
 <br>“<a href="https://www.urban.org/research/publication/contextualizing-push-more-school-resource-officer-funding/">Contextualizing the Push for More School Resource Officer Funding</a>” (Urban Institute Learning Curve)
 <br>“<a href="https://www.brookings.edu/blog/brown-center-chalkboard/2021/06/14/do-principals-hold-the-key-to-fixing-school-discipline/">Do principals hold the key to fixing school discipline?</a>” (Brookings Institute)
