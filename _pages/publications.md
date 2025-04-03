@@ -7,17 +7,17 @@ author_profile: true
 
 <br><b>Policy Pieces</b>
 <ul>
-<li>2024.“<a href="https://www.brookings.edu/articles/why-school-referrals-to-the-juvenile-justice-system-are-often-unfair-and-harmful/">Why school referrals to the juvenile justice system are often unfair and harmful.</a>” (Brookings Institute)</li>
-<li>2023.“<a href="https://www.brookings.edu/articles/navigating-the-tradeoffs-of-police-in-schools/">Navigating the tradeoffs of police in schools</a>” (Brookings Institute)
-<li>2023.“<a href="https://www.urban.org/research/publication/contextualizing-push-more-school-resource-officer-funding/">Contextualizing the Push for More School Resource Officer Funding</a>” (Urban Institute Learning Curve)</li>
-<li>2021.“<a href="https://www.brookings.edu/blog/brown-center-chalkboard/2021/06/14/do-principals-hold-the-key-to-fixing-school-discipline/">Do principals hold the key to fixing school discipline?</a>” (Brookings Institute)</li>
-<li>2020.“<a href="https://jamanetwork.com/channels/health-forum/fullarticle/2767411">Protecting the health of vulnerable children and adolescents during COVID-19-related K-12 school closures</a>” (JAMA Health Forum)</li>
-<li>2019.“<a href="http://wtgrantfoundation.org/lead-remediation-a-surprising-policy-solution-for-reducing-the-educational-achievement-gap">Lead remediation: A surprising policy solution for reducing the educational achievement gap</a>” (WT Grant Foundation)</li>
-<li>2019.“<a href="https://theconversation.com/school-spankings-are-banned-just-about-everywhere-around-the-world-except-in-us-118236">School spankings are banned just about everywhere around the world except in US</a>” (The Conversation)</li>
-<li>2019.“<a href="https://www.brookings.edu/blog/brown-center-chalkboard/2019/04/29/teacher-turnover-and-the-disruption-of-teacher-staffing/">Teacher turnover and the disruption of teacher staffing</a>” (Brookings Institute)</li>
-<li>2018.“<a href="https://rockinst.org/wp-content/uploads/2018/11/11-19-18-Virginia-Supply-and-Demand-Report.pdf">Virginia Is for Teachers? An Analysis of the State's Teacher Demand and Supply</a>” (Rockefeller Institute of Government)</li>
-<li>2016.“<a href="https://obssr.od.nih.gov/how-can-we-prevent-criminal-delinquency-start-early-and-focus-on-soft-skills/">How can we prevent criminal delinquency? Start early and focus on soft skills</a>” (NIH OBSSR Connector)</li>
-<li>2015.“<a href="https://acf.gov/sites/default/files/documents/acf_report_2_rev_022415_final_508_0.pdf">Self-regulation and toxic stress report: A review of ecological, biological, and developmental studies of self-reguilation.</a>" (Administration for Children and Families)</li>
+<li><a href="https://www.brookings.edu/articles/why-school-referrals-to-the-juvenile-justice-system-are-often-unfair-and-harmful/">Why school referrals to the juvenile justice system are often unfair and harmful.</a>” (Brookings Institute)</li>
+<li><a href="https://www.brookings.edu/articles/navigating-the-tradeoffs-of-police-in-schools/">Navigating the tradeoffs of police in schools</a>” (Brookings Institute)
+<li><a href="https://www.urban.org/research/publication/contextualizing-push-more-school-resource-officer-funding/">Contextualizing the Push for More School Resource Officer Funding</a>” (Urban Institute Learning Curve)</li>
+<li><a href="https://www.brookings.edu/blog/brown-center-chalkboard/2021/06/14/do-principals-hold-the-key-to-fixing-school-discipline/">Do principals hold the key to fixing school discipline?</a>” (Brookings Institute)</li>
+<li><a href="https://jamanetwork.com/channels/health-forum/fullarticle/2767411">Protecting the health of vulnerable children and adolescents during COVID-19-related K-12 school closures</a>” (JAMA Health Forum)</li>
+<li><a href="http://wtgrantfoundation.org/lead-remediation-a-surprising-policy-solution-for-reducing-the-educational-achievement-gap">Lead remediation: A surprising policy solution for reducing the educational achievement gap</a>” (WT Grant Foundation)</li>
+<li><a href="https://theconversation.com/school-spankings-are-banned-just-about-everywhere-around-the-world-except-in-us-118236">School spankings are banned just about everywhere around the world except in US</a>” (The Conversation)</li>
+<li><a href="https://www.brookings.edu/blog/brown-center-chalkboard/2019/04/29/teacher-turnover-and-the-disruption-of-teacher-staffing/">Teacher turnover and the disruption of teacher staffing</a>” (Brookings Institute)</li>
+<li><a href="https://rockinst.org/wp-content/uploads/2018/11/11-19-18-Virginia-Supply-and-Demand-Report.pdf">Virginia Is for Teachers? An Analysis of the State's Teacher Demand and Supply</a>” (Rockefeller Institute of Government)</li>
+<li><a href="https://obssr.od.nih.gov/how-can-we-prevent-criminal-delinquency-start-early-and-focus-on-soft-skills/">How can we prevent criminal delinquency? Start early and focus on soft skills</a>” (NIH OBSSR Connector)</li>
+<li><a href="https://acf.gov/sites/default/files/documents/acf_report_2_rev_022415_final_508_0.pdf">Self-regulation and toxic stress report: A review of ecological, biological, and developmental studies of self-reguilation.</a>" (Administration for Children and Families)</li>
 </ul>
 
 <br><b>Working Papers</b>
