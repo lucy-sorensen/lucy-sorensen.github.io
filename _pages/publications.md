@@ -8,13 +8,14 @@ author_profile: true
 <br><b>Working Papers</b>
 <ul>
 <li><a href="https://edworkingpapers.com/ai24-1093">The Effects of School Building HVAC System Conditions on Student Academic and Behavioral Outcomes</a>. (with Moontae Hwang and Marzuka Ahmad Radia).</li>
-<li><a href="https://edworkingpapers.com/ai24-907">On the Margin: Who Receives a Juvenile Referral in School and What Effect Does It Have?</a>. (with Andrea Headley and Stephen Holt). EdWorkingPaper 24-907.</li>
+
 <li><a href="https://www.edworkingpapers.com/ai22-563">Strictly Speaking: Examining Teacher Use of Punishment and Student Outcomes</a>. (with Stephen Holt, Katie Vinopal, and Heasun Choi). EdWorkingPaper 22-563.</li>
 </ul>
 
 <br><b>Publications</b>
 <ul>
-<li>2022. <a href="https://www.tandfonline.com/doi/abs/10.1080/03003930.2024.2379584">Truth and Illusion: Can a Transparency Reform Contribute to Accountable Taxing Behavior?</a>. (with Youngsung Kim). Local Government Studies.</li>
+<li>2025.<a href="https://onlinelibrary.wiley.com/doi/10.1002/pam.70009">On the Margin: Who Receives a Juvenile Referral in School and What Effect Does It Have?</a>. (with Andrea Headley and Stephen Holt). Journal of Policy Analysis and Management.</li>
+<li>2024. <a href="https://www.tandfonline.com/doi/abs/10.1080/03003930.2024.2379584">Truth and Illusion: Can a Transparency Reform Contribute to Accountable Taxing Behavior?</a>. (with Youngsung Kim). Local Government Studies.</li>
 <li>2023. <a href="https://www.edworkingpapers.com/ai21-476">The Thin Blue Line in Schools: New Evidence on School-Based Policing Across the U.S.</a>. (with Montserrat Avila Acosta, Shawn Bushway, and John Engberg). Journal of Policy Analysis and Management.</li>
 <li>2022. <a href="https://direct.mit.edu/edfp/article-abstract/17/2/255/97147/Getting-Tough-The-Effects-of-Discretionary?redirectedFrom=fulltext">Getting Tough? The Effects of Discretionary Principal Discipline on Student Outcomes</a>. (with Shawn Bushway and Elizabeth Gifford). Education Finance and Policy.</li>
 <li>2022. <a href="https://journals.sagepub.com/pb-assets/cmscontent/TCZ/Research\%20Notes\%20Collection/2022\%20Research\%20Notes/KoedelResearchNote-1657045508.pdf">Teacher Attrition and the Business Cycle</a>. (with Joshua Eagan, Nayoung Hwang, Cory Koedel, and Helen Ladd). Teachers College Record.</li>
