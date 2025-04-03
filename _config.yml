@@ -109,12 +109,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "lucy_sorensen"
+  twitter          : # "lucy_sorensen"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  bluesky          : "lucy-sorensen.bsky.social"
 
 
 # Reading Files
