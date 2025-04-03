@@ -7,7 +7,7 @@ author_profile: true
 
 <br><b>Working Papers</b>
 <ul>
-<li><a href="https://edworkingpapers.com/ai24-1093">The Effects of School Building HVAC System Conditions on Student Academic and Behavioral Outcomes</a>. (with Moontae Hwang and Marzuka Ahmad Radia).</li>
+<li><a href="https://edworkingpapers.com/ai24-1093">The Effects of School Building HVAC System Conditions on Student Academic and Behavioral Outcomes</a>. (with Moontae Hwang and Marzuka Ahmad Radia). EdWorkingPaper 24-093</li>
 
 <li><a href="https://www.edworkingpapers.com/ai22-563">Strictly Speaking: Examining Teacher Use of Punishment and Student Outcomes</a>. (with Stephen Holt, Katie Vinopal, and Heasun Choi). EdWorkingPaper 22-563.</li>
 </ul>

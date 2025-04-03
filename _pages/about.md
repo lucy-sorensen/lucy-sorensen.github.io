@@ -15,4 +15,4 @@ My research uses applied econometrics to investigate questions related to educat
 
 I teach an undergraduate course on schools and social inequality, MPA courses in public economics, and a PhD course in causal inference methods.
 
-I currently serve as an Associate Editor at <a href="https://journals.sagepub.com/home/epa">Educational Evaluation and Policy Analysis</a> and on the Board of Directors of the <a href="https://aefpweb.org/">Association of Education Finance and Policy</a>.
+I currently serve on the Board of Directors of the <a href="https://aefpweb.org/">Association of Education Finance and Policy</a> and as an Associate Editor at <a href="https://journals.sagepub.com/home/epa">Educational Evaluation and Policy Analysis</a>.
