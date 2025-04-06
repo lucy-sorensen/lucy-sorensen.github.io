@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for visiting.
+Thank you for visiting!
 
 I am an Associate Professor of Public Administration and Policy at University at Albany, SUNY. Before coming to Albany I received my PhD in Public Policy and MA in Economics from Duke University and BA in Economics and East Asian Studies from Yale University. 
 
@@ -15,4 +15,4 @@ My research uses applied econometrics to investigate questions related to educat
 
 I teach an undergraduate course on schools and social inequality, MPA courses in public economics, and a PhD course in causal inference methods.
 
-I currently serve on the Board of Directors of the [Association of Education Finance and Policy](https://aefpweb.org/), as an Associate Editor at [Educational Evaluation and Policy Analysis](https://journals.sagepub.com/home/epa), and as the Provost Fellow of Faculty Diversity and Retention.
+I currently serve on the Board of Directors of the Association of Education Finance and Policy, as an Associate Editor at Educational Evaluation and Policy Analysis, and as the University at Albany Provost Fellow of Faculty Diversity and Retention.
