@@ -9,6 +9,7 @@ author_profile: true
 <ul>
 <li><a href="https://edworkingpapers.com/ai24-1093">The Effects of School Building HVAC System Conditions on Student Academic and Behavioral Outcomes</a>. (with Moontae Hwang and Marzuka Ahmad Radia). EdWorkingPaper 24-093.</li>
 <li><a href="https://www.edworkingpapers.com/ai22-563">Strictly Speaking: Examining Teacher Use of Punishment and Student Outcomes</a>. (with Stephen Holt, Katie Vinopal, and Heasun Choi). EdWorkingPaper 22-563.</li>
+<li><a href="https://www.nber.org/papers/w33729">The Sources of Researcher Variation in Economics</a>. (with Nick Huntington-Klein, Claus Portner, Ian McCarthy, and the Many Economists Collaborative). NBER Working Paper 33729.</li>
 </ul>
 
 <br><b>Publications</b>
