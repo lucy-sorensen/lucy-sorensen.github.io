@@ -33,16 +33,6 @@ Check out the work of these excellent PhD students in our education policy resea
 		</ul></td>
 	</tr>
 	<tr>
-		<td><img src="/images/moontae_hwang.png"  width="300" height="300">
-		</td>
-		<td>Moontae Hwang, PhD Candidate *On the Job Market*
-		<ul>
-			<li>Interests: Public sector finance, public pensions, federal and state grants, property taxation, education inequality, quantitative methods</li>
-			<li>Website: <a href="https://sites.google.com/view/moontaehwang/about">https://sites.google.com/view/moontaehwang/about</a></li>
-			<li>Email: mhwang@albany.edu</li>
-		</ul></td>
-	</tr>
-	<tr>
 		<td><img src="/images/miyeunjung_photo_2.JPG"  width="300" height="300">
 		</td>
 		<td>Miyeun Jung, PhD Candidate<ul>
@@ -62,6 +52,16 @@ Check out the work of these excellent PhD students in our education policy resea
 			<li>Interests: Educational access and outcomes for students with disabilities, K12 education policy and equity, quantitative methods with administrative and survey data</li>
 			<li>Website: <a href="https://www.linkedin.com/in/arzana-myderrizi-5b64b832/">https://www.linkedin.com/in/arzana-myderrizi-5b64b832/</a></li>
 			<li>Email: arzana.myderrizi@utoronto.ca</li>
+		</ul></td>
+	</tr>
+	<tr>
+		<td><img src="/images/moontae_hwang.png"  width="300" height="300">
+		</td>
+		<td>Moontae Hwang, Senior Research Associate, Institute for Traffic Safety Management \& Research
+		<ul>
+			<li>Interests: Public sector finance, public pensions, federal and state grants, property taxation, education inequality, quantitative methods</li>
+			<li>Website: <a href="https://sites.google.com/view/moontaehwang/about">https://sites.google.com/view/moontaehwang/about</a></li>
+			<li>Email: mhwang@albany.edu</li>
 		</ul></td>
 	</tr>
 </table>	
