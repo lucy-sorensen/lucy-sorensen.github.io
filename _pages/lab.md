@@ -57,7 +57,7 @@ Check out the work of these excellent PhD students in our education policy resea
 	<tr>
 		<td><img src="/images/moontae_hwang.png"  width="300" height="300">
 		</td>
-		<td>Moontae Hwang, Senior Research Associate, Institute for Traffic Safety Management \& Research
+		<td>Moontae Hwang, Senior Research Associate, Institute for Traffic Safety Management and Research
 		<ul>
 			<li>Interests: Public sector finance, public pensions, federal and state grants, property taxation, education inequality, quantitative methods</li>
 			<li>Website: <a href="https://sites.google.com/view/moontaehwang/about">https://sites.google.com/view/moontaehwang/about</a></li>
