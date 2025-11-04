@@ -11,6 +11,7 @@ author_profile: true
 <li><a href="https://www.edworkingpapers.com/ai22-563">Strictly Speaking: Examining Teacher Use of Punishment and Student Outcomes</a>. (with Stephen Holt, Katie Vinopal, and Heasun Choi). EdWorkingPaper 22-563.</li>
 <li><a href="https://edworkingpapers.com/ai25-1251">Unequal Foundations: Racial Disparities in School Building Conditions in New York State</a>. (with Sodiq Ambali and Miyeun Jung). EdWorkingPaper 25-1251.</li>
 <li><a href="https://www.nber.org/papers/w33729">The Sources of Researcher Variation in Economics</a>. (with Nick Huntington-Klein, Claus Portner, Ian McCarthy, and the Many Economists Collaborative). NBER Working Paper 33729.</li>
+<li><a href="https://edworkingpapers.com/ai25-1302">Contemporary Child Labor and Declining School Attendance in the U.S.</a>. (with Melissa Arnold Lyon, Ji Hyun Byeon, and Stephen Holt). EdWorkingPaper 25-1302.</li>
 </ul>
 
 <br><b>Publications</b>
