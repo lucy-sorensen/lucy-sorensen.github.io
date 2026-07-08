@@ -8,14 +8,14 @@ author_profile: true
 <br><b>Working Papers</b>
 <ul>
 <li><a href="https://edworkingpapers.com/ai24-1093">The Effects of School Building HVAC System Conditions on Student Academic and Behavioral Outcomes</a>. (with Moontae Hwang and Marzuka Ahmad Radia). EdWorkingPaper 24-093.</li>
-<li><a href="https://www.edworkingpapers.com/ai22-563">Strictly Speaking: Examining Teacher Use of Punishment and Student Outcomes</a>. (with Stephen Holt, Katie Vinopal, and Heasun Choi). EdWorkingPaper 22-563.</li>
-<li><a href="https://edworkingpapers.com/ai25-1251">Unequal Foundations: Racial Disparities in School Building Conditions in New York State</a>. (with Sodiq Ambali and Miyeun Jung). EdWorkingPaper 25-1251.</li>
-<li><a href="https://www.nber.org/papers/w33729">The Sources of Researcher Variation in Economics</a>. (with Nick Huntington-Klein, Claus Portner, Ian McCarthy, and the Many Economists Collaborative). NBER Working Paper 33729.</li>
 <li><a href="https://edworkingpapers.com/ai25-1302">Contemporary Child Labor and Declining School Attendance in the U.S.</a>. (with Melissa Arnold Lyon, Ji Hyun Byeon, and Stephen Holt). EdWorkingPaper 25-1302.</li>
+<li><a href="https://www.edworkingpapers.com/ai22-563">Strictly Speaking: Examining Teacher Use of Punishment and Student Outcomes</a>. (with Stephen Holt, Katie Vinopal, and Heasun Choi). EdWorkingPaper 22-563.</li>
+<li><a href="https://www.nber.org/papers/w33729">The Sources of Researcher Variation in Economics</a>. (with Nick Huntington-Klein, Claus Portner, Ian McCarthy, and the Many Economists Collaborative). NBER Working Paper 33729.</li>
 </ul>
 
 <br><b>Publications</b>
 <ul>
+<li>Forthcoming.<a href="https://edworkingpapers.com/ai25-1251">Unequal Foundations: Racial Disparities in School Building Conditions in New York State</a>. (with Sodiq Ambali and Miyeun Jung). Educational Researcher.</li>
 <li>2025.<a href="https://onlinelibrary.wiley.com/doi/10.1002/pam.70009">On the Margin: Who Receives a Juvenile Referral in School and What Effect Does It Have?</a>. (with Andrea Headley and Stephen Holt). Journal of Policy Analysis and Management.</li>
 <li>2024. <a href="https://www.tandfonline.com/doi/abs/10.1080/03003930.2024.2379584">Truth and Illusion: Can a Transparency Reform Contribute to Accountable Taxing Behavior?</a>. (with Youngsung Kim). Local Government Studies.</li>
 <li>2023. <a href="https://www.edworkingpapers.com/ai21-476">The Thin Blue Line in Schools: New Evidence on School-Based Policing Across the U.S.</a>. (with Montserrat Avila Acosta, Shawn Bushway, and John Engberg). Journal of Policy Analysis and Management.</li>
@@ -39,8 +39,15 @@ author_profile: true
 <li>2016. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4809761/">How Does the Fast Track Intervention Prevent Adverse Outcomes in Young Adulthood?</a> (with Kenneth Dodge and the CPPRG). Child Development.</li>
 </ul>
 
-<br><b>Policy Pieces</b>
+<br><b>LPI Reports and Briefs</b>
 <ul>
+<li>2026. <a href="https://learningpolicyinstitute.org/product/gdtf-trends-californias-teacher-workforce-understanding-supply-demand-shortages">Trends in California's Teacher Workforce: Understanding Supply, Demand, and Shortages.</a> (with Melanie Leung-Gagne, Desiree Carver-Thomas, Susan Patrick, Tiffany Tan, and Linda Darling-Hammond. Stanford University, SCALE Initiative.</li>
+<li>2026. <a href="https://learningpolicyinstitute.org/index%2ephp/product/gdtf-californias-teacher-shortages-brief">California's Teacher Shortages: Trends in Supply, Demand, and Turnover.</a> (with Melanie Leung-Gagne, Desiree Carver-Thomas, Susan Patrick, Tiffany Tan, Linda Darling-Hammond, Thomas Smith, and Yiwang Li). Learning Policy Institute.</li>
+</ul>
+
+<br><b>Other Policy Pieces</b>
+<ul>
+<li><a href="https://www.brookings.edu/articles/why-school-referrals-to-the-juvenile-justice-system-are-often-unfair-and-harmful/">Why school referrals to the juvenile justice system are often unfair and harmful.</a> (Brookings Institute)</li>
 <li><a href="https://www.brookings.edu/articles/why-school-referrals-to-the-juvenile-justice-system-are-often-unfair-and-harmful/">Why school referrals to the juvenile justice system are often unfair and harmful.</a> (Brookings Institute)</li>
 <li><a href="https://rockinst.org/wp-content/uploads/2024/12/2024-12-Foundation-Aid-Report.pdf">A Review of New York State's Foundation Aid Education Funding Formula with Recommendations for Improvement.</a> (contributed to) (Rockefeller Institute of Government)</li>
 <li><a href="https://www.brookings.edu/articles/navigating-the-tradeoffs-of-police-in-schools/">Navigating the tradeoffs of police in schools</a> (Brookings Institute)</li>
