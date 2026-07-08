@@ -25,4 +25,3 @@ At the Rockefeller College of Public Affairs and Policy at UAlbany, I taught cou
 <br>Early Career Institute, Institute of Teaching Learning and Academic Leadership, University at Albany, SUNY
 <br>Certificate in College Teaching, Duke University
 <br>Preparing Future Faculty Fellowship, Duke University
-
