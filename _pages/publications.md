@@ -41,7 +41,7 @@ author_profile: true
 
 <br><b>LPI Reports and Briefs</b>
 <ul>
-<li>2026. <a href="https://learningpolicyinstitute.org/product/gdtf-trends-californias-teacher-workforce-understanding-supply-demand-shortages">Trends in California's Teacher Workforce: Understanding Supply, Demand, and Shortages.</a> (with Melanie Leung-Gagne, Desiree Carver-Thomas, Susan Patrick, Tiffany Tan, and Linda Darling-Hammond. Stanford University, SCALE Initiative.</li>
+<li>2026. <a href="https://learningpolicyinstitute.org/product/gdtf-trends-californias-teacher-workforce-understanding-supply-demand-shortages">Trends in California's Teacher Workforce: Understanding Supply, Demand, and Shortages.</a> (with Melanie Leung-Gagne, Desiree Carver-Thomas, Susan Patrick, Tiffany Tan, and Linda Darling-Hammond). Stanford University, SCALE Initiative.</li>
 <li>2026. <a href="https://learningpolicyinstitute.org/index%2ephp/product/gdtf-californias-teacher-shortages-brief">California's Teacher Shortages: Trends in Supply, Demand, and Turnover.</a> (with Melanie Leung-Gagne, Desiree Carver-Thomas, Susan Patrick, Tiffany Tan, Linda Darling-Hammond, Thomas Smith, and Yiwang Li). Learning Policy Institute.</li>
 </ul>
 
